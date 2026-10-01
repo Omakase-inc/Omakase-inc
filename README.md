@@ -1,16 +1,100 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Omakase-inc/Omakase-inc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```text
+╔══════════════════════════════════════════════════════════╗
+║                                                          ║
+║    ___   __  __     _     _  __    _     ____   _____   ║
+║   / _ \|  \/  |   / \   | |/ /   / \   / ___| | ____|   ║
+║  | | | || |\/| |  / _ \  | ' /   / _ \  \___ \ |  _|     ║
+║  | |_| || |  | | / ___ \ | . \  / ___ \  ___) || |___   ║
+║   \___/|_|  |_|/_/   \_\|_|\_\/_/   \_\|____/ |_____|   ║
+║                                                          ║
+║                         I N C .                          ║
+║                                                          ║
+╠══════════════════════════════════════════════════════════╣
+║                                                          ║
+║             >> We build digital products. <<             ║
+║                                                          ║
+╚══════════════════════════════════════════════════════════╝
+```
 
-Here are some ideas to get you started:
+```text
+┌──────────────────────────────────────────────────────────┐
+│  $ whoami                                                │
+└──────────────────────────────────────────────────────────┘
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+   Omakase INC. is a technology company focused on creating
+   digital products and experiences that are simple, useful,
+   and built for the real world.
+```
+
+```text
+┌──────────────────────────────────────────────────────────┐
+│  [ ABOUT ]                                               │
+└──────────────────────────────────────────────────────────┘
+
+   We combine technology, design, and product thinking
+   to turn ideas into digital solutions.
+
+            ┌────────────┐   ┌────────────┐   ┌────────────┐
+            │ TECHNOLOGY │ + │   DESIGN   │ + │  PRODUCT   │
+            │            │   │            │   │  THINKING  │
+            └─────┬──────┘   └─────┬──────┘   └─────┬──────┘
+                  └────────────────┼────────────────┘
+                                   ▼
+                        ╔═════════════════════╗
+                        ║ DIGITAL  SOLUTIONS  ║
+                        ╚═════════════════════╝
+```
+
+```text
+┌──────────────────────────────────────────────────────────┐
+│  [ VISION ]                                              │
+└──────────────────────────────────────────────────────────┘
+
+        ◢■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■◣
+        ■                                            ■
+        ■   To build digital products that make      ■
+        ■   everyday life better.                    ■
+        ■                                            ■
+        ◥■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■◤
+```
+
+```text
+┌──────────────────────────────────────────────────────────┐
+│  [ MISSION ]                                             │
+└──────────────────────────────────────────────────────────┘
+
+   Create useful technology through:
+
+     ├── thoughtful design
+     ├── solid engineering
+     └── a clear understanding of real-world problems
+```
+
+```text
+┌──────────────────────────────────────────────────────────┐
+│  [ CONTACT ]                                             │
+└──────────────────────────────────────────────────────────┘
+
+   OMAKASE INC.
+    │
+    ├── Website ─── https://omakase.inc
+    └── Email ───── hello@omakase.inc
+```
+
+🌐 **[omakase.inc](https://omakase.inc)** · **[omakase.inc](mailto:omakaseinc0@gmail.com)**
+
+```text
+════════════════════════════════════════════════════════════
+
+                        OMAKASE INC.
+
+               DIGITAL PRODUCTS & TECHNOLOGY
+
+                    © 2026 OMAKASE INC.
+
+════════════════════════════════════════════════════════════
+```
+
+</div>
